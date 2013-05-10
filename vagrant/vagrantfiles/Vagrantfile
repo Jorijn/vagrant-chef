@@ -36,7 +36,7 @@ Vagrant::Config.run do |config|
             },
             "sites" => ["default"]
             # you can add databases to a list here
-	    # You'll also need to add a trailing comma above
+      # You'll also need to add a trailing comma above
 #            "database" => {
 #                "create" => ["example_db_name"]
 #            }
