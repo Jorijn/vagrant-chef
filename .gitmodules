@@ -1,3 +1,0 @@
-[submodule "chef/cookbooks/memcached"]
-	path = chef/cookbooks/memcached
-	url = git@github.com:opscode-cookbooks/memcached.git
